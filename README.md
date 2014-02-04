@@ -14,7 +14,7 @@ single set of results.
 
 ## Running with Elasticrawl
 
-See [http://github.com/rossf7/elasticrawl#Quick-Start](http://github.com/rossf7/elasticrawl#Quick-Start)
+See [http://github.com/rossf7/elasticrawl#quick-start](http://github.com/rossf7/elasticrawl#quick-start)
 
 ## Building
 
@@ -47,7 +47,7 @@ git clone https://github.com/rossf7/elasticrawl-examples.git
 
 ## Thanks
 
-* Mark Watson for his [example-warc-java](https://github.com/commoncrawl/example-warc-java).
+* Mark Watson for his [example-warc-java](https://github.com/commoncrawl/example-warc-java) that got me started with WARC files.
 * Lemur project developers for their edu.cmu.lemurproject package.  Source for this is included
 with a couple of minor changes needed to process WET files stored on S3.
 
